@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+beanie
+pymongo
+dnspython
+pydantic>=2
+pydantic-settings
+python-jose[cryptography]
+bcrypt
+email-validator
+python-multipart
+aiosmtplib
